@@ -1,15 +1,4 @@
 
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 2,631
-(no subject)
-Inbox
-
-Sahil Kashyap <rk4852115@gmail.com>
-18:56 (3 minutes ago)
-to 5940, me
 
 import java.util.Scanner;
 
